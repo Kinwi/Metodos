@@ -39,6 +39,9 @@ namespace MetodoEjercicio7
 
         }
 
+        // Para saber si es Bisiesto habria bastado con la funcion "DateTime.IsLeapYear(año)" 
+        // Devuelve True si es Bisiesto y False si no es Bisiesto
+
         public static bool CompruebaAño(int año) { 
         
             bool bisiesto = true;

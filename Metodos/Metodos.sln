@@ -3,27 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{0EC9ADB8-A59A-4650-BA4C-FB8332845475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{0EC9ADB8-A59A-4650-BA4C-FB8332845475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1Metodos", "Ejercicio1Metodos\Ejercicio1Metodos.csproj", "{4A19464F-A6FB-4F3F-B52F-5FC5729B8055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1Metodos", "Ejercicio1Metodos\Ejercicio1Metodos.csproj", "{4A19464F-A6FB-4F3F-B52F-5FC5729B8055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2Metodos", "Ejercicio2Metodos\Ejercicio2Metodos.csproj", "{E472B8B7-CCA3-4AFC-AE81-F86C98A7E86F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2Metodos", "Ejercicio2Metodos\Ejercicio2Metodos.csproj", "{E472B8B7-CCA3-4AFC-AE81-F86C98A7E86F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3Metodos", "Ejercicio3Metodos\Ejercicio3Metodos.csproj", "{EC44F3D1-1B02-4780-8FBA-4815FF1F9208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3Metodos", "Ejercicio3Metodos\Ejercicio3Metodos.csproj", "{EC44F3D1-1B02-4780-8FBA-4815FF1F9208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio4Metodos", "Ejercicio4Metodos\Ejercicio4Metodos.csproj", "{B26FEF3A-0550-4188-94A8-44DBE21408EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio4Metodos", "Ejercicio4Metodos\Ejercicio4Metodos.csproj", "{B26FEF3A-0550-4188-94A8-44DBE21408EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5Metodos", "Ejercicio5Metodos\Ejercicio5Metodos.csproj", "{54777044-57FB-4AC6-9D25-C3677BCC44B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio5Metodos", "Ejercicio5Metodos\Ejercicio5Metodos.csproj", "{54777044-57FB-4AC6-9D25-C3677BCC44B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio6Metodos", "Ejercicio6Metodos\Ejercicio6Metodos.csproj", "{D1397AE9-F085-4B93-AE0D-43D3E30DB141}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio6Metodos", "Ejercicio6Metodos\Ejercicio6Metodos.csproj", "{D1397AE9-F085-4B93-AE0D-43D3E30DB141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoEjercicio7", "MetodoEjercicio7\MetodoEjercicio7.csproj", "{5AF7F363-F239-4D83-AE32-5B45C831ED97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodoEjercicio7", "MetodoEjercicio7\MetodoEjercicio7.csproj", "{5AF7F363-F239-4D83-AE32-5B45C831ED97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio8Metodos", "Ejercicio8Metodos\Ejercicio8Metodos.csproj", "{6AD108B0-9B80-46C8-B654-3FD195617835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio8Metodos", "Ejercicio8Metodos\Ejercicio8Metodos.csproj", "{6AD108B0-9B80-46C8-B654-3FD195617835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio9Metodos", "Ejercicio9Metodos\Ejercicio9Metodos.csproj", "{EDFEC11A-896A-458F-8DFA-FB9FBDE54AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio9Metodos", "Ejercicio9Metodos\Ejercicio9Metodos.csproj", "{EDFEC11A-896A-458F-8DFA-FB9FBDE54AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio10Metodos", "Ejercicio10Metodos\Ejercicio10Metodos.csproj", "{60A5A5F2-E838-4D99-BC7B-998978B199E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio10Metodos", "Ejercicio10Metodos\Ejercicio10Metodos.csproj", "{60A5A5F2-E838-4D99-BC7B-998978B199E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio11Metodos", "Ejercicio11Metodos\Ejercicio11Metodos.csproj", "{3695F628-C135-4175-B521-2C99DF75FFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio10AMetodos", "Ejercicio10AMetodos\Ejercicio10AMetodos.csproj", "{4BEEEC3B-C575-4A6C-8959-F545A81EA701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio12", "Ejercicio12\Ejercicio12.csproj", "{79D9EFD5-4E20-47BE-A35B-4FA5655B3F5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio13Bis", "Ejercicio13Bis\Ejercicio13Bis.csproj", "{8656A1E2-C740-45F8-9364-0A91CFEF8C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio14Metodos", "Ejercicio14Metodos\Ejercicio14Metodos.csproj", "{D6C26959-E38D-4C2D-A168-7815C2265885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio15Metodos", "Ejercicio15Metodos\Ejercicio15Metodos.csproj", "{31554BED-584E-4D0B-9448-93BA22F213F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio16Metodos", "Ejercicio16Metodos\Ejercicio16Metodos.csproj", "{4EE11090-62D5-4342-9BAC-2623676FC15F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +89,34 @@ Global
 		{60A5A5F2-E838-4D99-BC7B-998978B199E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60A5A5F2-E838-4D99-BC7B-998978B199E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60A5A5F2-E838-4D99-BC7B-998978B199E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3695F628-C135-4175-B521-2C99DF75FFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3695F628-C135-4175-B521-2C99DF75FFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3695F628-C135-4175-B521-2C99DF75FFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3695F628-C135-4175-B521-2C99DF75FFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEEEC3B-C575-4A6C-8959-F545A81EA701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEEEC3B-C575-4A6C-8959-F545A81EA701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEEEC3B-C575-4A6C-8959-F545A81EA701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEEEC3B-C575-4A6C-8959-F545A81EA701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D9EFD5-4E20-47BE-A35B-4FA5655B3F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D9EFD5-4E20-47BE-A35B-4FA5655B3F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D9EFD5-4E20-47BE-A35B-4FA5655B3F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D9EFD5-4E20-47BE-A35B-4FA5655B3F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8656A1E2-C740-45F8-9364-0A91CFEF8C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8656A1E2-C740-45F8-9364-0A91CFEF8C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8656A1E2-C740-45F8-9364-0A91CFEF8C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8656A1E2-C740-45F8-9364-0A91CFEF8C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C26959-E38D-4C2D-A168-7815C2265885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C26959-E38D-4C2D-A168-7815C2265885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C26959-E38D-4C2D-A168-7815C2265885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C26959-E38D-4C2D-A168-7815C2265885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31554BED-584E-4D0B-9448-93BA22F213F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31554BED-584E-4D0B-9448-93BA22F213F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31554BED-584E-4D0B-9448-93BA22F213F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31554BED-584E-4D0B-9448-93BA22F213F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE11090-62D5-4342-9BAC-2623676FC15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE11090-62D5-4342-9BAC-2623676FC15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE11090-62D5-4342-9BAC-2623676FC15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE11090-62D5-4342-9BAC-2623676FC15F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

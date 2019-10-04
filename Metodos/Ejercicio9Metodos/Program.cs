@@ -35,6 +35,28 @@ namespace Ejercicio9Metodos
             return contadorVocales;
         }
 
+        /*OTRA FORMA DE HACER EL EJERCICIO - ToString()
+         * 
+         * 
+         * Console.WriteLine("Introduce una frase:");
+            string userInput = Console.ReadLine().ToLower();
+            int vowelCount = 0;
+            for (int i = 0; i < userInput.Length; i++)
+            {
+                string c = userInput[i].ToString();
+                if ("aeiou".Contains(c))
+                {
+                    vowelCount++;
+                }
+            }
+            Console.WriteLine(vowelCount);
+
+        
+        ------------------------------------------------------------
+        DateTime fecha = DateTime.Now;
+        Console.WriteLine("HH:mm")
+
+         */
 
     }
 }
